@@ -1,5 +1,9 @@
 # Roman Numeral Converter
 
+## Application Preview
+
+![Application Screenshot](demo.png)
+
 ## Overview
 
 A Python-based GUI application that converts Arabic numerals into Roman numerals using Tkinter.
